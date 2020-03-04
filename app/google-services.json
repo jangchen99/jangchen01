@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128736757136",
+    "firebase_url": "https://hongsapp0229.firebaseio.com",
+    "project_id": "hongsapp0229",
+    "storage_bucket": "hongsapp0229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128736757136:android:66ddd23645e7522959df15",
+        "android_client_info": {
+          "package_name": "com.example.hongsapp0229"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128736757136-nujcp3dtddj6f6v96qsjjjntkl88s8i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hongsapp0229",
+            "certificate_hash": "721f95b2ee3a6074f5138882c1b8d0a5aaaa5d35"
+          }
+        },
+        {
+          "client_id": "128736757136-01nmsqnsf72pb81sl9fn56ug61u56cpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcybFPBzzjpbGYLQLmxvMynF1FQ6ZuKQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128736757136-01nmsqnsf72pb81sl9fn56ug61u56cpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
