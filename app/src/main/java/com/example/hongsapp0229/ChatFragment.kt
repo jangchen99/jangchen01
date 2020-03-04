@@ -41,6 +41,8 @@ class ChatFragment : Fragment()
             // Firebase 데이터베이스로 보내는 코드
             val chatData = ChatDTO()
 
+
+            아~ 진짜 짜증나네!!!!!!!!!!!!!!!!!!!
             val timeStamp = SimpleDateFormat("yyMMddHHmmss").format(Date())
             chatData.date = timeStamp.toLong()
             chatData.writer = "hw"
